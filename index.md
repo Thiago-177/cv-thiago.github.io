@@ -7,7 +7,7 @@ Brasileiro, Geólogo, Estudante de Mestrado.
 - 11/07/1997
 - [github.com/Thiago-177](https://github.com/Thiago-177)
 - [linkedin.com/in/thiago-rivaben-lopes-131700170/](https://www.linkedin.com/in/thiago-rivaben-lopes-131700170/)
-- http://lattes.cnpq.br/0243103395438212
+- [lattes.cnpq.br/0243103395438212](http://lattes.cnpq.br/0243103395438212)
 
 ## Sobre Mim
 
