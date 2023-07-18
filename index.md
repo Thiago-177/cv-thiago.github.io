@@ -1,6 +1,16 @@
-<img src="media/perfil.png" width="100px"> 
 
-# Thiago Rivaben Lopes
+<style>
+td, th {
+   border: none!important;
+   font-size: 18px;
+}
+</style>
+
+| Nome         | Foto        | Descrição              |
+| -------------------- | --------- | ---------- |
+| <strong>Thiago Rivaben Lopes</strong> | <img src="media/perfil.png" width="200px">| Brasileiro, Geólogo, Estudante de Mestrado. |
+
+# Thiago Rivaben Lopes <img src="media/perfil.png" width="100px"> 
 Brasileiro, Geólogo, Estudante de Mestrado. 
 
 ## Dados Pessoais:
@@ -30,6 +40,7 @@ Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scik
 # Formação Acadêmica
 - Graduação em Geologia - Concluído em 2020 - UNICAMP (Universidade Estadual de Campinas).
 - Mestrado em Geotecnologias, início 08/2021 e previsão de conclusão em Ago 2023 - UNICAMP (Universidade Estadual de Campinas).
+
 # Atual
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2023 - Até o Momento (Remoto) 
