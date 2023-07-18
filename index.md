@@ -1,19 +1,11 @@
 
-<style>
-td, th {
-   border: none!important;
-   font-size: 18px;
-}
-</style>
-
-| Nome         | Foto        | Descrição              |
-| -------------------- | --------- | ---------- |
-| <strong>Thiago Rivaben Lopes</strong> | <img src="media/perfil.png" width="200px">| Brasileiro, Geólogo, Estudante de Mestrado. |
-
-# Thiago Rivaben Lopes <img src="media/perfil.png" width="100px"> 
+# Thiago Rivaben Lopes
 Brasileiro, Geólogo, Estudante de Mestrado. 
 
 ## Dados Pessoais:
+
+<img style="float: right;" src="media/perfil.png" width=200px>
+
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="15">+55 19 98780-4034
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="20" height="15"> thiago.rivaben@gmail.com
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cake-candles.svg" width="20" height="15">11/07/1997
@@ -45,7 +37,7 @@ Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scik
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2023 - Até o Momento (Remoto) 
 
-> ><strong>Título Tese: </strong>Imageamento Hiperespectral e Geração de Modelos Preditivos da Concentração de Carbono Orgânico Total (COT) em Rochas. 
+> ><span style="color:black"> <strong>Título Tese: </strong>Imageamento Hiperespectral e Geração de Modelos Preditivos da Concentração de Carbono Orgânico Total (COT) em Rochas. 
 
 No projeto comparamos métodos tradicionais de estimar o COT a partir de dados Hiperespectrais com um método inovador de predição por modelos supervisionados de regressão, a partir de algoritmos de Machine Learning e Redes Neurais Convolucionais, em rochas betuminosas da Bacia Horn River, Canadá. O projeto resultou em uma apresentação em congresso e no momento um Artigo sobre os resultados do projeto está sendo construído.
 
@@ -90,7 +82,12 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 ### Idiomas
 - Inglês - Intermediário
 - Espanhol - Básico
+
 # Certificados 
+
+
+
+<p><font size="5"> Obrigado por Ler até aqui. 
 
 
 
