@@ -34,7 +34,7 @@ Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scik
 
 # Atual
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
-#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2023 - Até o Momento (Remoto) 
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2021 - Até o Momento (Remoto) 
 
 > ><span style="color:black"> <strong>Título Tese: </strong>Imageamento Hiperespectral e Geração de Modelos Preditivos da Concentração de Carbono Orgânico Total (COT) em Rochas. 
 
@@ -44,7 +44,7 @@ No projeto comparamos métodos tradicionais de estimar o COT a partir de dados H
 
 - 1º Baseado na aplicação de uma PCA (Principal Component Analysis) sobre os dados de entrada em um modelo SVR (Support Machine Regressor).
 - 2º Baseado na aplicação de Filtros Convolucionais (Wavelet função Hann) sobre os dados de entrada em um modelo SVR.
-- 3º Baseado na aplicação de uma transformada de fourier sobre as curvas de dados de entrada para obtenção de Espectrogramas (imagens) em um modelo de Rede Neural Convolucional inspirada na arquitetura Inception.
+- 3º Baseado na aplicação de uma transformada de fourier sobre as curvas de dados de entrada para obtenção de Espectrogramas (imagens) em um modelo de Rede Neural Convolucional inspirada na arquitetura Inception [Szegedy et. al. (2014)](https://doi.org/10.48550/arXiv.1409.4842).
 
 Por fim, foi aplicado o algoritmo SHAP para obtenção de informações sobre a relação entre os outputs dos modelos e as features dos dados de entrada.
 
@@ -52,7 +52,11 @@ Por fim, foi aplicado o algoritmo SHAP para obtenção de informações sobre a 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Bolsista DTI-C CNPQ - Embrapa Territorial
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Fev 2021 - Jul 2021
 
-Avaliação e realização de análises espaciais de Títulos Minerários com uso potencial para agricultura. Auxílio na implementação de uma plataforma online para Aquicultura no Brasil.
+Responsabilidades:
+1. Avaliação e realização de análises espaciais de Títulos Minerários com uso potencial para agricultura; 
+2. Auxílio na implementação de uma plataforma online para Aquicultura no Brasil.
+
+Tarefas envolvidas:
 - Análises Estatísticas 
 - Análise de Dados GIS
 - Consulta a bases Governamentais (ANM, CPRM, MAPA, IBGE, ANA)
@@ -85,7 +89,7 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
   - Interpretação petrofísica; 
   - Amarração de Poços junto aos dados sísmicos;
   - Análise do Sistema Petrolífero;
-- Para desenvolver as atividades trbalhei com os prorgramas:
+- Para desenvolver as atividades trabalhei com os programas:
   - Petrel;
   - Techlog;
   - PetroMod;
