@@ -118,6 +118,7 @@ Atuou na condução de tutoriais, sessões de laboratórios e revisões, apoio e
 - Microsoft Office (Word, Power Point e Excel)
 - ArcGIS e QGIS
 - Programação em Python 
+- SHAP Values
 - Programaçao em R
 - Programação em SQL
 - Linguagem Latex e Markdown
