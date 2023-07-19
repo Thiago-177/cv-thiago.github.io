@@ -13,7 +13,8 @@ Brasileiro, Geólogo, Estudante de Mestrado.
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="15"> [lattes.cnpq.br/0243103395438212](http://lattes.cnpq.br/0243103395438212)
 
 ## Sobre Mim
-Graduado em Geologia e apaixonado por dados e tecnologia, possuo experiência de mais de 3 anos de trabalho diário com Python e Dados GIS (Georreferenced Information System) para fins acadêmicos profissionais e pessoais. Atividades como coleta, preparação e análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
+Graduado em Geologia e aluno de Mestrado em Geotecnologias. Apaixonado por dados e tecnologia, possuo experiência de mais de 3 anos de trabalho diário com Python e Dados GIS (Geographic Information System) para fins acadêmicos profissionais e pessoais. 
+Atividades como coleta, preparação e análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
 
 ## Profissional
 Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos. Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
