@@ -122,6 +122,7 @@ Atuou na condução de tutoriais, sessões de laboratórios e revisões, apoio e
 - Programação em SQL
 - Linguagem Latex e Markdown
 - Relatórios Técnicos/Científicos 
+- GitHub (Versionamento de códigos)
 - Básico de HTML e JS
 - Básico de Power BI
 - Sensoriamento Remoto e Dados Hiperespectrais
