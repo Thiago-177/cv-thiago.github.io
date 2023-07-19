@@ -1,4 +1,3 @@
-
 # Thiago Rivaben Lopes
 Brasileiro, Geólogo, Estudante de Mestrado. 
 
@@ -70,7 +69,7 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 
 ### Mestrado
 ---
-#### UNICAMP - [Estágio Docente (PED)](https://drive.google.com/file/d/1uQYCULglHCcgTufs0y-UVqSxbXB74r3r/view?usp=sharing) na Disciplina: Sistema de Informações Georreferenciadas (2S 2022).
+#### UNICAMP - Estágio Docente (PED) na Disciplina: Sistema de Informações Georreferenciadas (2S 2022).
 - Atuou na assistência didática da disciplina; 
   - Supervisão e Organização de aulas e atividades práticas em laboratório;
   - Condução de Tutoriais;
@@ -104,9 +103,9 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 - Atuou na pesquisa e produção de métodos para gerar modelos geológicos tridimensionais para ensino em geociências que resultou na criação de uma modelo 3D da Bacia de Taubaté, baseado na interpretação de dados sísmicos.
 
 #### UNICAMP - Monitor nas Disciplinas: 
-- [Sistema Terra I](https://drive.google.com/file/d/1-gjxLkgMQPyv0YEH-P08KTUFT6WgWAvf/view?usp=sharing) (1S2016); 
-- [Sistema Terra II](https://drive.google.com/file/d/1FKRrhWDye9k6dgQupKoUZ7xPOo5rIrlo/view?usp=sharing) (2S2016);
-- [Sistemas de Informações Georreferenciadas (GIS)](https://drive.google.com/file/d/10MaVrwlruJDANKMt_RMaBLYFtORYgG5H/view?usp=sharing) (2S2019)
+- Sistema Terra I (1S2016); 
+- Sistema Terra II (2S2016);
+- Sistemas de Informações Georreferenciadas (GIS) (2S2019)
 
 Atuou na condução de tutoriais, sessões de laboratórios e revisões, apoio em atividades de campo e elaboração de mapas.
 
