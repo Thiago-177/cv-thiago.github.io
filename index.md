@@ -14,7 +14,7 @@ Brasileiro, Geólogo, Estudante de Mestrado.
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="20" height="15"> [lattes.cnpq.br/0243103395438212](http://lattes.cnpq.br/0243103395438212)
 
 ## Sobre Mim
-Graduado em Geologia e apaixonado por dados e tecnologia, possuo experiência de mais de 3 anos de trabalho diário com Python e Dados GIS (Georreferenced Information System) para fins acadêmicos profissionais e pessoais. Atividades como coleta, preparação análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
+Graduado em Geologia e apaixonado por dados e tecnologia, possuo experiência de mais de 3 anos de trabalho diário com Python e Dados GIS (Georreferenced Information System) para fins acadêmicos profissionais e pessoais. Atividades como coleta, preparação e análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
 
 ## Profissional
 Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos. Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
@@ -22,7 +22,7 @@ Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Un
 ## Projetos/Planos
 Formado em Geologia pela UNICAMP e finalizando o mestrado pela mesma instituição. Busco uma oportunidade de trabalho para adquirir desenvolvimento pessoal, aplicando os conhecimentos e habilidades adquiridos na graduação, estágio e mestrado. Também quero aprender com novas experiências e desafios que vão além do campo acadêmico afim de me desenvolver como profissional, geólogo e analista de dados.  
 
-Faços cursos online constantemente tanto sobre análise de dados, Machine Learning, web development, desenvolvimento profissional, performance e inovação. Procuro sempre estar aprendendo algo novo e me desenvolvendo.
+Faço cursos online constantemente, que abordam temas como: Análise de Dados, Machine Learning, web development, desenvolvimento profissional, performance e inovação. Procuro sempre estar aprendendo algo novo e me desenvolvendo.
 
 No momento estou desenvolvendo um curso de Introdução ao Python para Geocientistas que será ministrado para os alunos de Graduação do Instituto de Geociências da Unicamp, em breve coloco o link do material aqui.
 
@@ -57,7 +57,7 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 - Análises Estatísticas 
 - Análise de Dados GIS
 - Consulta a bases Governamentais (ANM, CPRM, MAPA, IBGE, ANA)
-- Auxílio no Backend da plataforma (programação em  Python e Typescript)
+- Auxílio no Backend da plataforma (programação em  Python, HTML, JS e Typescript)
 - Resultado: construção da [Plataforma Online SITE Aquicultura](https://mapas.cnpm.embrapa.br/apps/site_aquicultura/#/map) da Embrapa.
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Estágio - Embrapa Territorial
@@ -66,7 +66,49 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 Avaliação e realização de análises espaciais de Títulos Minerários com uso potencial para agricultura. Pesquisa bibliográfica da ocorrência de agrominerais e remineralizadores de solo em território nacional e construção de um banco de dados de estudos agronômicos envolvendo agrominerais.
 
 ---
-## Projetos e Cargos durante a Graduação em Geologia na Universidade Estadual de Campinas - UNICAMP.
+## Projetos e Cargos durante a Graduação e Mestrado em Geologia na Universidade Estadual de Campinas - UNICAMP.
+
+### Mestrado
+---
+#### UNICAMP - [Estágio Docente (PED)](https://drive.google.com/file/d/1uQYCULglHCcgTufs0y-UVqSxbXB74r3r/view?usp=sharing) na Disciplina: Sistema de Informações Georreferenciadas (2S 2022).
+- Atuou na assistência didática da disciplina; 
+  - Supervisão e Organização de aulas e atividades práticas em laboratório;
+  - Condução de Tutoriais;
+  - Apoio aos estudantes no uso do software ArcGIS e QGIS.
+
+#### [Participação na competição internacional Imperial Barrel Award (IBA)](https://drive.google.com/file/d/10pHcW9h8arwyGtlPpY-PO_2XmUhI4kAb/view?usp=sharing) - Student Chapter AAPG Unicamp (Jan 2023 - Abr 2023).
+- Atuou como Project Manager na competição e auxiliou na:
+  - Organização e Planejamento de Tarefas;
+  - Cronograma e Suporte aos membros;
+  - Intercâmbio com os Stakeholders (mentores do grupo);
+- As principais atividades; desenvolvidas foram:
+  - Análise de dados de poços;
+  - Interpretação petrofísica; 
+  - Amarração de Poços junto aos dados sísmicos;
+  - Análise do Sistema Petrolífero;
+- Para desenvolver as atividades trbalhei com os prorgramas:
+  - Petrel;
+  - Techlog;
+  - PetroMod;
+  - ArcGIS
+
+### Graduação
+---
+#### [Iniciação Científica](https://drive.google.com/file/d/1zzaxuQ7jXMXx_MnbSzKH-zVnVIehFYoM/view?usp=sharing) - UNICAMP (Ago 2018 - Out 2019)
+- Fomentada pelo programa PIBIC/CNPQ
+- Áreas de pesquisa: Geologia Estrutural, Evolução Crustal e Integração Geológica.
+- Atuou na integração dos dados de mapeamento geológico de 6 áreas na Serra da Onça, Bom jardim de Minas, MG.
+
+#### [Iniciação Científica Voluntária](https://drive.google.com/file/d/1nJmzOYFWnshebqNNrPRtTjTktBTz7Rbj/view?usp=sharing) - UNICAMP (Ago 2016 - Ago 2017)
+- Áreas de pesquisa: Educação na Geociências, Bacia de Taubaté, Modelos 3D.
+- Atuou na pesquisa e produção de métodos para gerar modelos geológicos tridimensionais para ensino em geociências que resultou na criação de uma modelo 3D da Bacia de Taubaté, baseado na interpretação de dados sísmicos.
+
+#### UNICAMP - Monitor nas Disciplinas: 
+- [Sistema Terra I](https://drive.google.com/file/d/1-gjxLkgMQPyv0YEH-P08KTUFT6WgWAvf/view?usp=sharing) (1S2016); 
+- [Sistema Terra II](https://drive.google.com/file/d/1FKRrhWDye9k6dgQupKoUZ7xPOo5rIrlo/view?usp=sharing) (2S2016);
+- [Sistemas de Informações Georreferenciadas (GIS)](https://drive.google.com/file/d/10MaVrwlruJDANKMt_RMaBLYFtORYgG5H/view?usp=sharing) (2S2019)
+
+Atuou na condução de tutoriais, sessões de laboratórios e revisões, apoio em atividades de campo e elaboração de mapas.
 
 # Habilidades 
 - Microsoft Office (Word, Power Point e Excel)
@@ -84,10 +126,13 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 - Espanhol - Básico
 
 # Certificados 
+> Programação
+- [Certificado Mini-curso USP](https://drive.google.com/file/d/11eEGVQ-XLLd2JObEmhAWymQm_c-TRBsM/view?usp=sharing): "Minicurso Avançando para o Futuro: Inteligência Artificial em Geociências - Fundamentos, Importância, Aplicações e Exemplos"
+- [Certificado Udemy](https://drive.google.com/file/d/1ng9py2WZQKqtjVFzEiRZFUD4G0v-VT2E/view?usp=sharing): "Aprenda Machine Learning em Python com Scikit-Learn"
+- [Certificado Geovariances](https://drive.google.com/file/d/1Dki8ndnTijsEQn2Zj0PawJ12j723h9WR/view?usp=sharing): "Introdução para Geoestatística aplicada a acumulações de Óleo usando Machine Learning.
 
 
 
-<p><font size="5"> Obrigado por Ler até aqui. 
 
 
 
