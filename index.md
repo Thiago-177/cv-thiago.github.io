@@ -26,7 +26,7 @@ Faço cursos online constantemente, que abordam temas como: Análise de Dados, M
 No momento estou desenvolvendo um curso de Introdução ao Python para Geocientistas que será ministrado para os alunos de Graduação do Instituto de Geociências da Unicamp, em breve coloco o link do material aqui.
 
 ## Especialidades 
-Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scikit-learn, Tensorflow), Project Management, Análises Estatísticas, Visualizações (Matplotlib, Seaborn),Análises GIS (ArcGIS, ArcGIS Pro, QGIS) e Consulta em Base de dados Governamentais (CPRM, ANM, IBGE, Receita Federal, ANA, MAPA). 
+Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scikit-learn, Tensorflow), Project Management, Análises Estatísticas, Visualizações (Matplotlib, Seaborn), Análises GIS (ArcGIS, ArcGIS Pro, QGIS) e Consulta em Base de dados Governamentais (CPRM, ANM, IBGE, Receita Federal, ANA, MAPA). 
 
 # Formação Acadêmica
 - Graduação em Geologia - Concluído em 2020 - UNICAMP (Universidade Estadual de Campinas).
