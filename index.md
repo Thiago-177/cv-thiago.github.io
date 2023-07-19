@@ -6,7 +6,7 @@ Brasileiro, Geólogo, Estudante de Mestrado.
 <img style="float: right;" src="media/perfil.png" width=200px>
 
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="15">+55 19 98780-4034
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="20" height="15"> thiago.rivaben@gmail.com
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="20" height="15"> [thiago.rivaben@gmail.com](thiago.rivaben@gmail.com)
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cake-candles.svg" width="20" height="15">11/07/1997
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20" height="15"> [github.com/Thiago-177](https://github.com/Thiago-177)
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="15"> [linkedin.com/in/thiago-rivaben-lopes-131700170/](https://www.linkedin.com/in/thiago-rivaben-lopes-131700170/)
