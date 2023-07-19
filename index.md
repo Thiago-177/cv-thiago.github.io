@@ -64,18 +64,18 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 
 Avaliação e realização de análises espaciais de Títulos Minerários com uso potencial para agricultura. Pesquisa bibliográfica da ocorrência de agrominerais e remineralizadores de solo em território nacional e construção de um banco de dados de estudos agronômicos envolvendo agrominerais.
 
----
+
 ## Projetos e Cargos durante a Graduação e Mestrado em Geologia na Universidade Estadual de Campinas - UNICAMP.
 
-### Mestrado
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="20" height="15"> Mestrado
 ---
-#### UNICAMP - Estágio Docente (PED) na Disciplina: Sistema de Informações Georreferenciadas (2S 2022).
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="20" height="15"> UNICAMP - Estágio Docente (PED) na Disciplina: Sistema de Informações Georreferenciadas (2S 2022).
 - Atuou na assistência didática da disciplina; 
   - Supervisão e Organização de aulas e atividades práticas em laboratório;
   - Condução de Tutoriais;
   - Apoio aos estudantes no uso do software ArcGIS e QGIS.
 
-#### [Participação na competição internacional Imperial Barrel Award (IBA)](https://drive.google.com/file/d/10pHcW9h8arwyGtlPpY-PO_2XmUhI4kAb/view?usp=sharing) - Student Chapter AAPG Unicamp (Jan 2023 - Abr 2023).
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="20" height="15"> [Participação na competição internacional Imperial Barrel Award (IBA)](https://drive.google.com/file/d/10pHcW9h8arwyGtlPpY-PO_2XmUhI4kAb/view?usp=sharing) - Student Chapter AAPG Unicamp (Jan 2023 - Abr 2023).
 - Atuou como Project Manager na competição e auxiliou na:
   - Organização e Planejamento de Tarefas;
   - Cronograma e Suporte aos membros;
@@ -91,18 +91,18 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
   - PetroMod;
   - ArcGIS
 
-### Graduação
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="20" height="15"> Graduação
 ---
-#### [Iniciação Científica](https://drive.google.com/file/d/1zzaxuQ7jXMXx_MnbSzKH-zVnVIehFYoM/view?usp=sharing) - UNICAMP (Ago 2018 - Out 2019)
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="20" height="15"> [Iniciação Científica](https://drive.google.com/file/d/1zzaxuQ7jXMXx_MnbSzKH-zVnVIehFYoM/view?usp=sharing) - UNICAMP (Ago 2018 - Out 2019)
 - Fomentada pelo programa PIBIC/CNPQ
 - Áreas de pesquisa: Geologia Estrutural, Evolução Crustal e Integração Geológica.
 - Atuou na integração dos dados de mapeamento geológico de 6 áreas na Serra da Onça, Bom jardim de Minas, MG.
 
-#### [Iniciação Científica Voluntária](https://drive.google.com/file/d/1nJmzOYFWnshebqNNrPRtTjTktBTz7Rbj/view?usp=sharing) - UNICAMP (Ago 2016 - Ago 2017)
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="20" height="15"> [Iniciação Científica Voluntária](https://drive.google.com/file/d/1nJmzOYFWnshebqNNrPRtTjTktBTz7Rbj/view?usp=sharing) - UNICAMP (Ago 2016 - Ago 2017)
 - Áreas de pesquisa: Educação na Geociências, Bacia de Taubaté, Modelos 3D.
 - Atuou na pesquisa e produção de métodos para gerar modelos geológicos tridimensionais para ensino em geociências que resultou na criação de uma modelo 3D da Bacia de Taubaté, baseado na interpretação de dados sísmicos.
 
-#### UNICAMP - Monitor nas Disciplinas: 
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="20" height="15"> UNICAMP - Monitor nas Disciplinas: 
 - Sistema Terra I (1S2016); 
 - Sistema Terra II (2S2016);
 - Sistemas de Informações Georreferenciadas (GIS) (2S2019)
