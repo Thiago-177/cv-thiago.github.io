@@ -17,7 +17,7 @@ Graduado em Geologia e aluno de Mestrado em Geotecnologias. Apaixonado por dados
 Atividades como coleta, preparação e análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
 
 ## Profissional
-Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos e trabalho como Geocientista pela [Eliis Latam](https://www.eliis-geo.com/index-a.html). Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
+Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos e trabalho como Geocientista pela [Eliis](https://www.eliis-geo.com/index-a.html). Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
 
 ## Projetos/Planos
 Formado em Geologia pela UNICAMP e finalizando o mestrado pela mesma instituição. Busco adquirir desenvolvimento pessoal, trocando experiência com atuais profissionais do mercado e aplicando os conhecimentos e habilidades adquiridos na graduação, estágio e mestrado. Procuro incluir conhecimentos de outros campos além da geologia para contrapor desafios afim de me desenvolver como profissional, geólogo e analista de dados.  
@@ -32,8 +32,19 @@ Interpretação Sísmica (Paleoscan), Programação em Python, Modelagem Estatí
 - Mestrado em Geotecnologias, início 08/2021 e previsão de conclusão em Dez 2023 - UNICAMP (Universidade Estadual de Campinas).
 
 # Atual
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Geoscientista - Eliis
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Set 2023 - Atual
+
+Responsabilidades:
+1. Suporte técnico do software PaleoScan, garantindo o alto padrão de qualidade de nossa resposta de suporte, atendendo ou superando o compromisso do cliente.
+2. Desenvolvimento de novos projetos de Qualidade/P&D, incluindo métodos Sísmicos Avançados (Machine Learning, AI) e qualquer funcionalidade que exija desenvolvimento de Código (Python, scripts em diferentes linguagens, linguagens de Banco de Dados, etc.)
+3. Suporte Técnico para Geociências, com especialização em Machine Learning, IA e infraestrutura Cloud, entre outros.
+
+# Experiência Profissional
+
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
-#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2021 - Até o Momento (Remoto) 
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2021 - Atual 
 
 > ><span style="color:black"> <strong>Título Tese: </strong>Imageamento Hiperespectral e Geração de Modelos Preditivos da Concentração de Carbono Orgânico Total (COT) em Rochas. 
 
@@ -46,17 +57,6 @@ No projeto comparamos métodos tradicionais de estimar o COT a partir de dados H
 - 3º Baseado na aplicação de uma transformada de fourier sobre as curvas de dados de entrada para obtenção de Espectrogramas (imagens) em um modelo de Rede Neural Convolucional inspirada na arquitetura Inception [Szegedy et. al. (2014)](https://doi.org/10.48550/arXiv.1409.4842).
 
 Por fim, foi aplicado o algoritmo SHAP para obtenção de informações sobre a relação entre os outputs dos modelos e as features dos dados de entrada.
-
-# Experiência Profissional
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Geoscientista - Eliis Latam
-#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Set 2023 - Atual
-
-Responsabilidades:
-1. Suporte ao cliente do software PaleoScan, garantindo o alto padrão de qualidade de nossa resposta de suporte, atendendo ou superando o compromisso do cliente (contrato M&S).
-2. Apoio PaleoScan Petrobras através do SLA.
-3. Desenvolvimento de novos projetos de Qualidade/P&D para a equipe de SLA, incluindo métodos Sísmicos Avançados (Machine Learning, AI) e qualquer funcionalidade que exija desenvolvimento de Código (Python, scripts em diferentes linguagens, linguagens de Banco de Dados, etc.)
-4. Suporte Técnico Interno para Geociências em Geral, com especialização em Machine Learning, IA e infraestrutura Cloud, entre outros.
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Bolsista DTI-C CNPQ - Embrapa Territorial
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Fev 2021 - Jul 2021
