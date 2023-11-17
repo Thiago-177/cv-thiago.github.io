@@ -33,7 +33,7 @@ Interpretação Sísmica (Paleoscan), Programação em Python, Modelagem Estatí
 
 # Atual
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Geoscientista - Eliis
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Geoscientista - Eliis
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Set 2023 - Atual
 
 Responsabilidades:
@@ -43,7 +43,7 @@ Responsabilidades:
 
 # Experiência Profissional
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Ago 2021 - Atual 
 
 > ><span style="color:black"> <strong>Título Tese: </strong>Imageamento Hiperespectral e Geração de Modelos Preditivos da Concentração de Carbono Orgânico Total (COT) em Rochas. 
