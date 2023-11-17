@@ -17,21 +17,19 @@ Graduado em Geologia e aluno de Mestrado em Geotecnologias. Apaixonado por dados
 Atividades como coleta, preparação e análise de dados, modelagem estatística, Machine Learning, banco de dados, tratamento com dados georreferenciados em ambiente GIS e elaboração de mapas de dispersão fazem parte do meu dia a dia. 
 
 ## Profissional
-Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos. Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
+Atualmente estou em conclusão de um mestrado no Instituto de Geociências da Unicamp na área de aplicação de IA em prolemas geológicos e trabalho como Geocientista pela [Eliis Latam](https://www.eliis-geo.com/index-a.html). Meu objetivo é trabalhar onde possa aplicar os conhecimentos de GIS, estatística e ciência de dados para o desenvolvimento de modelos Machine Learning em diversas áreas. 
 
 ## Projetos/Planos
-Formado em Geologia pela UNICAMP e finalizando o mestrado pela mesma instituição. Busco uma oportunidade de trabalho para adquirir desenvolvimento pessoal, aplicando os conhecimentos e habilidades adquiridos na graduação, estágio e mestrado. Também quero aprender com novas experiências e desafios que vão além do campo acadêmico afim de me desenvolver como profissional, geólogo e analista de dados.  
+Formado em Geologia pela UNICAMP e finalizando o mestrado pela mesma instituição. Busco adquirir desenvolvimento pessoal, trocando experiência com atuais profissionais do mercado e aplicando os conhecimentos e habilidades adquiridos na graduação, estágio e mestrado. Procuro incluir conhecimentos de outros campos além da geologia para contrapor desafios afim de me desenvolver como profissional, geólogo e analista de dados.  
 
 Faço cursos online constantemente, que abordam temas como: Análise de Dados, Machine Learning, web development, desenvolvimento profissional, performance e inovação. Procuro sempre estar aprendendo algo novo e me desenvolvendo.
 
-No momento estou desenvolvendo um curso de Introdução ao Python para Geocientistas que será ministrado para os alunos de Graduação do Instituto de Geociências da Unicamp, em breve coloco o link do material aqui.
-
 ## Especialidades 
-Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scikit-learn, Tensorflow), Project Management, Análises Estatísticas, Visualizações (Matplotlib, Seaborn), Análises GIS (ArcGIS, ArcGIS Pro, QGIS) e Consulta em Base de dados Governamentais (CPRM, ANM, IBGE, Receita Federal, ANA, MAPA). 
+Interpretação Sísmica (Paleoscan), Programação em Python, Modelagem Estatística, Machine Learning (Pytorch, Scikit-learn, Tensorflow), Project Management, Análises Estatísticas, Visualizações (Matplotlib, Seaborn), Análises GIS (ArcGIS, ArcGIS Pro, QGIS) e Consulta em Base de dados Governamentais (CPRM, ANM, IBGE, Receita Federal, ANA, MAPA). 
 
 # Formação Acadêmica
 - Graduação em Geologia - Concluído em 2020 - UNICAMP (Universidade Estadual de Campinas).
-- Mestrado em Geotecnologias, início 08/2021 e previsão de conclusão em Ago 2023 - UNICAMP (Universidade Estadual de Campinas).
+- Mestrado em Geotecnologias, início 08/2021 e previsão de conclusão em Dez 2023 - UNICAMP (Universidade Estadual de Campinas).
 
 # Atual
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-card-clip.svg" width="20" height="15"> Bolsista de Mestrado pelo programa ANP, PRH 19.1 - Instituto de Geociências, Universidade de Campinas - UNICAMP 
@@ -50,6 +48,16 @@ No projeto comparamos métodos tradicionais de estimar o COT a partir de dados H
 Por fim, foi aplicado o algoritmo SHAP para obtenção de informações sobre a relação entre os outputs dos modelos e as features dos dados de entrada.
 
 # Experiência Profissional
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Geoscientista - Eliis Latam
+#### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Set 2023 - Atual
+
+Responsabilidades:
+1. Suporte ao cliente do software PaleoScan, garantindo o alto padrão de qualidade de nossa resposta de suporte, atendendo ou superando o compromisso do cliente (contrato M&S).
+2. Apoio PaleoScan Petrobras através do SLA.
+3. Desenvolvimento de novos projetos de Qualidade/P&D para a equipe de SLA, incluindo métodos Sísmicos Avançados (Machine Learning, AI) e qualquer funcionalidade que exija desenvolvimento de Código (Python, scripts em diferentes linguagens, linguagens de Banco de Dados, etc.)
+4. Suporte Técnico Interno para Geociências em Geral, com especialização em Machine Learning, IA e infraestrutura Cloud, entre outros.
+
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/id-badge.svg" width="20" height="15"> Bolsista DTI-C CNPQ - Embrapa Territorial
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/calendar-days.svg" width="20" height="15"> Fev 2021 - Jul 2021
 
@@ -115,9 +123,11 @@ Avaliação e realização de análises espaciais de Títulos Minerários com us
 Atuou na condução de tutoriais, sessões de laboratórios e revisões, apoio em atividades de campo e elaboração de mapas.
 
 # Habilidades 
+- Interpretação Sísmica (Paleoscan)
 - Microsoft Office (Word, Power Point e Excel)
 - ArcGIS e QGIS
-- Programação em Python 
+- Programação em Python
+- Dashboards ([Dash](https://dash.gallery/Portal/) library python)
 - SHAP Values
 - Programaçao em R
 - Programação em SQL
